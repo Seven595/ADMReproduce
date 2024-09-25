@@ -4,9 +4,10 @@ This repository contains the datasets and Jupyter notebooks necessary to reprodu
 
 ## Repository Structure
 
-- `datasets/`: Contains all datasets used in our study
+- `datasets/`: Contains partial datasets used in our study, all dataset used in our study can be downloaded from https://drive.google.com/drive/folders/1s9CtUIZYY5iwkHN-vOlrfcqDvCa4m8p1?usp=drive_link
 - `Reproduce/`: Jupyter notebooks for reproducing figures and analyses
-- 
+
+  
 
 ## Requirements
 
@@ -18,7 +19,20 @@ To run the notebooks, you'll need:
 
 Additional R packages required:
 - ggplot2
+
 - dplyr
+
 - tidyr
-(list other necessary packages)
+
+- DDoutlier
+
+- diffudist
+
+-  fitdistrplus
+
+- igraph
+
+- mclust
+
+  
 
