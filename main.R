@@ -1,61 +1,70 @@
+# Load necessary libraries
+library(ADM)
+source("./functions.R")
 
+# Define color list for visualization
+color_list <- c("#FB6A4A", "#54278F", "#006635", "#3182BD", "#DE2D26", "#72A34F", "#5D7AD3", 
+                "#756BB1", "#FCAE91", "#fe87ac", "#AFABAB", "#67A9CF", "#CBC9E2", "#4d982e", 
+                "#E6873E", "#545454", "#aa3474", "#ee8c7d", "#2e5fa1", "#FDD0A3", "#C22F2F", "#036f73")
 
-source("./plot_functions.R")
+# Set dataset name
+dataset <- "Quake"  # Options: Gutierrez, Oihane, Quake, pbmc, mir, kidney, Spleen, metabolism, gene
 
-dataset = "Oihane"  ## Gutierrez  Oihane Quake  pbmc  mir  kidney  Spleen metabolism  gene
+# Load data
+dataload <- dataloader(dataset)
+dat <- dataload$dat  # Data matrix
+info <- dataload$info  # Label information
+k <- length(unique(info))  # Number of classes
+label_mapping <- get_mapping(dataset)  # Get label mapping
+print("Data loaded successfully!")
 
-dataload = dataloader(dataset)
-dat = dataload$dat
-info = dataload$info
-path = paste0("../dataset/",dataset,"/")
+# Set data path
+path <- file.path("../dataset", dataset)
 
-##########################################
-##
-## Calculating  indivadual outputs
-##
-##########################################
-# candidate.out = candidate.visual(dat, dim = 3, method=c("PCA", "MDS", "iMDS", "Sammon", "HLLE", "Isomap", 
-#                                                   "kPCA", "LEIM", "UMAP", "tSNE","PHATE","KEF"),tsne.perplexity = c(10, 30))
-# e<-candidate.out[[1]]
-# name = candidate.out[[2]]
-# save(e, file=paste0(path,"all embeded dim 3.bin"))  
+# Set random seed for reproducibility
+set.seed(2024)
 
+# Execute candidate visualization methods
+candidate.out <- candidate.visual(
+  dat, 
+  dim = 3, 
+  method = c("PCA", "MDS", "iMDS", "Sammon", "HLLE", "Isomap", "kPCA", "LEIM", "UMAP", "tSNE", "PHATE", "KEF"),
+  tsne.perplexity = c(10, 30)
+)
+print("Individual methods completed!")
 
-##########################################
-##
-##  Calculating  meta outputs
-##
-##########################################
-# load(paste0(path,"all embeded dim 3.bin"))
-# ensemble.out = ensemble.viz(e, names(e))
-# mev.out = mev(e, dist.power=dist.power, conn.prop=conn.prop,diffu.factor = diffu.factor)
-# CCI <- cal_cci(ensemble.out, mev.out)
-# save(ensemble.out, file=paste("./Data/",dataset,"metaspec_out.Rdata"))
-# save(mev.out, file=paste("./Data/",dataset, "adm_out.Rdata"))
-# save(CCI, file=paste("./Data/",dataset,"CCI.Rdata"))
+# Extract results
+e <- candidate.out[[1]]  # Visualization results
+names_list <- candidate.out[[2]]  # List of method names
 
+# Execute ensemble visualization
+ensemble.out <- ensemble.viz(e, names(e))
+print("Meta-spec completed!")
 
-##########################################
-##
-##  visulization
-##
-##########################################
+# Execute ADM method
+adm.out <- adm(e, distr.template = "combine")
+print("ADM completed!")
 
+# Process and visualize meta-method results
+result <- process_and_visualize_meta_methods(adm.out, ensemble.out, info, k, color_list)
 
-load(paste0(path,"all embeded dim 3.bin"))
-load(paste0(path, "Data/", " ", dataset, " metaspec_out.Rdata"))
-load(paste0(path,"Data/ ", dataset, " adm_out.Rdata"))
-load(paste0(path,"Data/ ", dataset, " CCI.Rdata"))
-k = length(unique(info))
-label_mapping <- get_mapping(dataset)
-visualize_individual_methods(e, names_list, seed = 2024)
-results = process_and_visualize_meta_methods(ensemble.out, mev.out, info, k, color_list,seed = 2024)
-# plot_legend(results[[4]], "ADM", info, dataset, color_list, label_mapping = label_mapping) ##从该屠图上拿legend
+# Visualize individual method results
+ind_result <- visualize_individual_methods(e, names_list, info, color_list, k)
 
+# View results
+# Use the following commands to view numerical results and plots for each method:
+# ind_result[[1]]$plot  # Plot
+# ind_result[[1]]$ari   # ARI value
+# ind_result[[1]]$nmi   # NMI value
+# ind_result[[1]]$silhouette  # Silhouette coefficient
 
-visualization_with_label(results[[4]], "ADM", info, dataset, color_list)
-visualization_with_label(results[[3]], "meta-spec", info, dataset, color_list)  
-visualize_silhouette_width(results[[2]], info,dataset,label_mapping)
-visualize_ari_nmi(results[[1]], dataset)
-plot_cci_results(rec, dataset)
-
+# Output results summary
+print("Results summary:")
+for (i in seq_along(ind_result)) {
+  method_name <- names(ind_result)[i]
+  cat(sprintf("%s: ARI = %.4f, NMI = %.4f, Silhouette = %.4f\n",
+              method_name,
+              ind_result[[i]]$ari,
+              ind_result[[i]]$nmi,
+              ind_result[[i]]$silhouette))
+}
