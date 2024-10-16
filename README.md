@@ -1,22 +1,15 @@
 # ADMReproduce
 
-This repository contains the datasets and Jupyter notebooks necessary to reproduce the results and figures presented in our paper "ADM: Adaptive Graph Diffusion for Meta-Dimension Reduction".
-
-## Repository Structure
-
-- `datasets/`: Contains partial datasets used in our study, all dataset used in our study can be downloaded from https://drive.google.com/drive/folders/1s9CtUIZYY5iwkHN-vOlrfcqDvCa4m8p1?usp=drive_link
-- `Reproduce/`: Jupyter notebooks for reproducing figures and analyses.
-
-  
+This R script (main.R) performs various dimensionality reduction and visualization methods on single-cell RNA-seq data, followed by ensemble and meta-analysis techniques. It also calculates evaluation metrics for each method.
 
 ## Requirements
 
-To run the notebooks, you'll need:
+Before running this script, ensure you have the following:
 
 - R (version 4.3.1 or later)
 - The ADM R package (available at [Seven595/ADM](https://github.com/Seven595/ADM))
 
-- #### related packages
+- Other related packages
 
   | Package      | Version    |
   | ------------ | ---------- |
@@ -45,5 +38,61 @@ To run the notebooks, you'll need:
   | igraph       | 2.0.3      |
   | Rtsne        | 0.17       |
   | dimRed       | 0.2.6      |
-  
 
+## Usage
+
+1. Set the dataset name in the `dataset` variable. Available options are:
+   - Gutierrez
+   - Oihane
+   - Quake
+   - pbmc
+   - mir
+   - Spleen
+   - metabolism
+   - gene
+   
+2. Run the script in R or RStudio.
+
+## Script Overview
+
+The script performs the following steps:
+
+1. Loads necessary libraries and custom functions
+2. Defines a color list for visualization
+3. Loads the specified dataset
+4. Executes various candidate visualization methods:
+   - PCA
+   - MDS
+   - iMDS
+   - Sammon
+   - HLLE
+   - Isomap
+   - kPCA
+   - LEIM
+   - UMAP
+   - tSNE (with perplexities 10 and 30)
+   - PHATE
+   - KEF
+5. Performs ensemble visualization
+6. Executes the ADM method
+7. Processes and visualizes meta-method results
+8. Visualizes individual method results
+9. Outputs a summary of results, including ARI, NMI, and Silhouette coefficient for each method
+
+## Output
+
+The script generates visualizations for each method and calculates evaluation metrics. Results can be accessed through the `ind_result` list, where each element contains:
+
+- `plot`: A ggplot object of the visualization
+- `ari`: Adjusted Rand Index
+- `nmi`: Normalized Mutual Information
+- `silhouette`: Silhouette coefficient
+
+A summary of these metrics is printed to the console for easy comparison.
+
+## Repository Structure
+
+- `datasets/`: Contains partial datasets used in our study, all dataset used in our study can be downloaded from https://drive.google.com/drive/folders/1s9CtUIZYY5iwkHN-vOlrfcqDvCa4m8p1?usp=drive_link
+- `Reproduce/`: Jupyter notebooks for reproducing figures and analyses.
+
+  
