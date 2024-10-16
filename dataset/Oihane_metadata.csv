@@ -1,0 +1,1338 @@
+cell_id,orig.ident,Phase,cell_type1,organism,dataset_name,platform,organ,data_type,cell_ontology_class,cell_ontology_id,n_genes,n_counts,__libsize__
+AAAAACACATTT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1177,2278,2278.0
+AAAAACTACGCA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,232,271,271.0
+AAAAACTACGCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,222,258,258.0
+AAAAACTACGCG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,318,389,389.0
+AAAAATACCCTT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,246,313,313.0
+AAAAATTTGACA_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,266,320,320.0
+AAAAATTTGCCT_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,668,874,874.0
+AAAACACGGTCC_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,233,332,332.0
+AAAAGTTGAGCT_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1153,1794,1794.0
+AAAATGCAATTA_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,763,1086,1086.0
+AAACCACACACT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,227,284,284.0
+AAAGCAGACTCC_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,762,1153,1153.0
+AAAGCCAGGCGA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,730,1153,1153.0
+AAAGCCGCGTAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,334,410,410.0
+AAAGCCGCGTAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,411,482,482.0
+AAAGCCGCGTAG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,381,450,450.0
+AAAGCCGCGTAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,402,475,475.0
+AAATCGGAGCCA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,486,592,592.0
+AAATCGGAGCCC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,497,620,620.0
+AAATCGGAGCCG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,501,622,622.0
+AAATCGGAGCCT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,494,606,606.0
+AAATGGTGAGAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,441,726,726.0
+AAATTTCCCTTC_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,677,981,981.0
+AACAAGATCTAC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,314,395,395.0
+AACACCCTTTAG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,931,1630,1630.0
+AACACCGTATCA_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,308,399,399.0
+AACACCGTATCC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,373,494,494.0
+AACACCGTATCG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,326,419,419.0
+AACACCGTATCT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,381,473,473.0
+AACATGTTATAC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,500,790,790.0
+AACCAATAGCAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,485,759,759.0
+AACCATAAAGCA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,657,929,929.0
+AACCATCTACGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,252,333,333.0
+AACCATGTACGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1093,2037,2037.0
+AACCGCTCCGAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,215,282,282.0
+AACCGTGTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,942,1730,1730.0
+AACGAAAAGTCA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,266,373,373.0
+AACGCAGCATCT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,896,1634,1634.0
+AACGCTCAGAGC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,248,315,315.0
+AACGGTTAACGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,451,615,615.0
+AACGTCGTTAGG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,229,342,342.0
+AACTAGCTAGAG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,402,563,563.0
+AACTCTATTATA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,216,248,248.0
+AACTCTATTATC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,246,294,294.0
+AACTCTATTATG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,210,262,262.0
+AACTCTATTATT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,250,309,309.0
+AACTGCCGGCTT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,978,1453,1453.0
+AACTTGCTGAAG_1,WT mice (Midbrain),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,296,480,480.0
+AAGAATAGGATC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,830,1496,1496.0
+AAGACGGAGTTA_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,691,868,868.0
+AAGACGGAGTTC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,571,762,762.0
+AAGACGGAGTTG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,693,911,911.0
+AAGACGGAGTTT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,548,732,732.0
+AAGCACTGAATA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,731,980,980.0
+AAGCGAGTGACC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,455,617,617.0
+AAGGACCAGCCG_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,892,1336,1336.0
+AAGGCCCAGCCG_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,246,294,294.0
+AAGGTAGGTTTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,226,308,308.0
+AATACGGGGAAT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,428,534,534.0
+AATATATTTATG_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,651,1112,1112.0
+AATCAAGGGGCT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,619,1040,1040.0
+AATCAATGGGTA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,304,439,439.0
+AATCCAAACTTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,700,1024,1024.0
+AATCTACCAGAA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,582,890,890.0
+AATCTCATAACG_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,835,1220,1220.0
+AATTCAGGTCAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,233,306,306.0
+AATTTTACGCCA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,647,1056,1056.0
+ACAACATTGCTG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,298,475,475.0
+ACAATTCGCGTT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,422,679,679.0
+ACAATTGAGCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,863,1331,1331.0
+ACACCAATTACT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,537,826,826.0
+ACACGCTGAAGG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,298,417,417.0
+ACAGAAGGCATC_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,393,530,530.0
+ACAGCGGGCGGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,336,470,470.0
+ACAGTAGGCGTT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,363,475,475.0
+ACAGTTCAGACC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,585,843,843.0
+ACATAACCTGCT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1078,1678,1678.0
+ACATAACTACTT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,530,956,956.0
+ACATCCCATCGG_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,274,385,385.0
+ACATGAAAGTCC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,724,1034,1034.0
+ACCAAGGACCGT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,576,859,859.0
+ACCACTTCTTCG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,537,919,919.0
+ACCATGATTATA_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,604,779,779.0
+ACCATGATTATC_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,664,847,847.0
+ACCATGATTATG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,720,945,945.0
+ACCATGATTATT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,578,740,740.0
+ACCCACTCCACA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,342,415,415.0
+ACCCACTCCACC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,379,460,460.0
+ACCCACTCCACG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,423,538,538.0
+ACCCACTCCACT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,317,369,369.0
+ACCCCTCTGGCA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,560,683,683.0
+ACCCCTCTGGCC_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,607,746,746.0
+ACCCCTCTGGCG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,636,821,821.0
+ACCCCTCTGGCT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,486,585,585.0
+ACCCCTCTGTTA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1138,2050,2050.0
+ACCCTAGCCTGT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,437,658,658.0
+ACCCTTATATTC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,710,1050,1050.0
+ACCGAAAAGTTA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,817,1358,1358.0
+ACCGATGCTGCC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1294,2239,2239.0
+ACCGCATTTGAA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,380,467,467.0
+ACCGCATTTGAC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,384,458,458.0
+ACCGCATTTGAG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,461,571,571.0
+ACCGCATTTGAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,358,423,423.0
+ACCGCCCTTATC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,234,267,267.0
+ACCGCCCTTATG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,245,292,292.0
+ACCGCCCTTATT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,225,264,264.0
+ACCGCGCAATCT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,210,253,253.0
+ACCGCGCAATTT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,231,286,286.0
+ACCGCTGTCTTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,772,1206,1206.0
+ACCGGAGTACAC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,217,293,293.0
+ACCGTGGTTCCC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,949,1449,1449.0
+ACCGTTGGTTGT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,999,1742,1742.0
+ACCTAGCCTAAA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,341,504,504.0
+ACCTCCCCGCAT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,218,325,325.0
+ACCTGGACGTTG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,659,1065,1065.0
+ACGAAGCTTTGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,560,810,810.0
+ACGAAGCTTTGC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,570,857,857.0
+ACGAAGCTTTGG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,713,1104,1104.0
+ACGAAGCTTTGT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,438,604,604.0
+ACGACCTCTCGC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,205,275,275.0
+ACGATTCCGGGG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,412,634,634.0
+ACGATTGACCCC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,311,451,451.0
+ACGCATCGCATC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,626,1029,1029.0
+ACGCCTGCCCAA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,413,597,597.0
+ACGCCTGCCCAC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,483,703,703.0
+ACGCCTGCCCAG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,475,725,725.0
+ACGCCTGCCCAT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,350,467,467.0
+ACGGCTTTAGAA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,434,576,576.0
+ACGGGTGTGGGA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,328,436,436.0
+ACGGGTGTGGGC_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,314,403,403.0
+ACGGGTGTGGGG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,434,617,617.0
+ACGGGTGTGGGT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,276,353,353.0
+ACGGTGCTGTGG_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1086,2073,2073.0
+ACGTCGTCTCCC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,238,368,368.0
+ACGTCTTGTTCC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,202,310,310.0
+ACGTGGACACCA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,223,309,309.0
+ACGTTTTAGCCG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,626,905,905.0
+ACTAACGTGACA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,408,590,590.0
+ACTAACGTGACC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,419,605,605.0
+ACTAACGTGACG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,502,725,725.0
+ACTAACGTGACT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,410,553,553.0
+ACTAATACACCA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,426,516,516.0
+ACTAATTCCGCA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,355,440,440.0
+ACTAATTCCGCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,356,467,467.0
+ACTAATTCCGCG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,429,558,558.0
+ACTAATTCCGCT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,317,418,418.0
+ACTAATTTCCGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,203,257,257.0
+ACTACAGGTGTA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,929,1647,1647.0
+ACTATATAGTGT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,527,784,784.0
+ACTATTGAGTGG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,197,252,252.0
+ACTCAGGCACTA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,240,335,335.0
+ACTCATCCCAGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1054,1751,1751.0
+ACTCCGGTGCGG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,232,308,308.0
+ACTGATCTGTCA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,239,329,329.0
+ACTGATGCGCTA_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,549,671,671.0
+ACTGATGCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,664,852,852.0
+ACTGATGCGCTT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,385,455,455.0
+ACTGCCGGCTAG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,192,294,294.0
+ACTTTTACCAAT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,628,1001,1001.0
+AGAAAGAGAATA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,454,671,671.0
+AGAACGTGTTGA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,416,559,559.0
+AGAAGCCGCGTT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,833,1382,1382.0
+AGAATCGAAGTT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,196,237,237.0
+AGAATGATGCGC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,211,278,278.0
+AGACCATAGCGC_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,979,1746,1746.0
+AGACGGAGAGTA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,258,324,324.0
+AGACGGAGAGTC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,300,415,415.0
+AGACGGAGAGTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,399,517,517.0
+AGACGGAGAGTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,279,350,350.0
+AGAGCTTTCGGT_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1051,1896,1896.0
+AGAGGCCGTGTA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,199,315,315.0
+AGAGTGAATCAG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,578,856,856.0
+AGATAAAAGTGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,805,1275,1275.0
+AGCAAGGAGTGG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,926,1392,1392.0
+AGCACTCGTCAA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,475,664,664.0
+AGCACTCGTCAC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,504,729,729.0
+AGCACTCGTCAG_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,593,864,864.0
+AGCACTCGTCAT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,455,610,610.0
+AGCACTTCTTCC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,272,418,418.0
+AGCAGGTTACCC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,271,378,378.0
+AGCATTACATTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1062,1697,1697.0
+AGCATTGACCCC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,209,291,291.0
+AGCCATATATTC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1077,1770,1770.0
+AGCCCACTCCAC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,223,255,255.0
+AGCCCTGGTGAA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,228,297,297.0
+AGCCCTGGTGAC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,250,324,324.0
+AGCCCTGGTGAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,277,367,367.0
+AGCCCTGGTGAT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,225,274,274.0
+AGCCGACAAAAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1038,1759,1759.0
+AGCCTGGATTAG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,401,518,518.0
+AGCCTGTATCCA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,468,604,604.0
+AGCCTGTATCCC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,475,672,672.0
+AGCCTGTATCCG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,465,668,668.0
+AGCCTGTATCCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,440,590,590.0
+AGCGAGGATTTC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,230,295,295.0
+AGCGCCTTCACC_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,816,1423,1423.0
+AGCTCACTCTGA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,635,883,883.0
+AGCTCACTCTGC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,561,699,699.0
+AGCTCACTCTGG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1031,1563,1563.0
+AGCTCACTCTGT_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,613,810,810.0
+AGCTCGTTATCT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,253,336,336.0
+AGCTGTTATTGA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,316,376,376.0
+AGCTTTGGCCCA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,616,896,896.0
+AGGAATACCCGA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,591,1000,1000.0
+AGGAGTTCTACA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,457,604,604.0
+AGGAGTTCTACC_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,406,537,537.0
+AGGAGTTCTACG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,449,627,627.0
+AGGAGTTCTACT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,316,379,379.0
+AGGATTCACCCC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,249,335,335.0
+AGGATTGCCCCC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1199,2264,2264.0
+AGGCCTGGTGTG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1064,1508,1508.0
+AGGCGGCGCGCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,343,500,500.0
+AGGCTACGACTT_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,416,465,465.0
+AGGCTCGGGATA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1042,1728,1728.0
+AGGGGGGGGGGG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,946,988,988.0
+AGGGGGGGGGGG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1207,1240,1240.0
+AGGGTACGCGTA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,297,441,441.0
+AGGGTGATGGGA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,392,535,535.0
+AGGGTGATGGGC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,255,319,319.0
+AGGGTGATGGGG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,490,689,689.0
+AGGGTGATGGGT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,217,276,276.0
+AGGTAGAATACA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,283,335,335.0
+AGGTAGAATACG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,303,376,376.0
+AGGTAGAATACT_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,227,267,267.0
+AGGTAGGCTGTA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1072,1657,1657.0
+AGGTAGTTAGAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,463,746,746.0
+AGGTAGTTCAGA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,240,353,353.0
+AGGTATCGCCGG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,888,1181,1181.0
+AGGTCCGTCAGG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,376,498,498.0
+AGGTCTAACAAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,200,226,226.0
+AGGTGGAGATAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,282,373,373.0
+AGGTTCCAAGGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,493,1295,1295.0
+AGTATGAGGCTA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,395,508,508.0
+AGTATGAGGCTC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,437,564,564.0
+AGTATGAGGCTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,540,708,708.0
+AGTATGAGGCTT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,426,572,572.0
+AGTATTTAAATC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,372,498,498.0
+AGTCAGTCGTAA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,271,384,384.0
+AGTCCCTAGTAA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,220,267,267.0
+AGTCCCTAGTAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,206,251,251.0
+AGTCCCTAGTAG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,271,332,332.0
+AGTCCCTAGTAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,220,259,259.0
+AGTGCACATCTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,294,869,869.0
+AGTGCCTCTAGT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,377,504,504.0
+AGTTTTTTCGGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,289,403,403.0
+ATAAACACATTA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,604,951,951.0
+ATAACGGCGCGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,283,374,374.0
+ATAACTATAAGT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,566,785,785.0
+ATAATAAACTTT_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,761,1425,1425.0
+ATAATGGAGGTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1365,1907,1907.0
+ATACACGGCGAA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,672,1052,1052.0
+ATACCATAACGC_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1056,1787,1787.0
+ATACGCACTAAT_2,WT mice (Striatum),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,779,1171,1171.0
+ATAGCACCAGAC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,812,1184,1184.0
+ATAGCACTGGTT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,621,915,915.0
+ATAGTACACCGG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1040,1715,1715.0
+ATAGTGCCCTTA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,863,1247,1247.0
+ATATCCAGTATC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,632,1107,1107.0
+ATATCGTCATCC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,725,972,972.0
+ATATCGTCTCCA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,256,312,312.0
+ATATCGTCTCCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,317,383,383.0
+ATATCGTCTCCG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,360,446,446.0
+ATATCGTCTCCT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,262,306,306.0
+ATATCGTTGGAA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,660,986,986.0
+ATATGCTTAATT_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,645,803,803.0
+ATATTCGAGGGC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,518,814,814.0
+ATCAAAACATAA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,273,318,318.0
+ATCAAAACATAC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,200,226,226.0
+ATCAAAACATAG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,287,325,325.0
+ATCAAAACATAT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,243,267,267.0
+ATCAATCATCCT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,527,651,651.0
+ATCACAAAAAAA_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,431,615,615.0
+ATCACGGACGGT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,799,1147,1147.0
+ATCACGGATATG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,212,283,283.0
+ATCCACTGAATA_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,370,428,428.0
+ATCCCTGGATGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,626,895,895.0
+ATCCTCTCGAAA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,206,286,286.0
+ATCCTCTCGAAC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,238,294,294.0
+ATCCTCTCGAAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,266,372,372.0
+ATCCTCTCGAAT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,243,312,312.0
+ATCCTCTCGACA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,268,343,343.0
+ATCCTCTCGACC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,262,362,362.0
+ATCCTCTCGACG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,292,406,406.0
+ATCCTCTCGACT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,248,337,337.0
+ATCCTCTCGAGA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,222,278,278.0
+ATCCTCTCGAGC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,227,311,311.0
+ATCCTCTCGAGG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,349,482,482.0
+ATCCTCTCGAGT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,236,291,291.0
+ATCCTCTCGATA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,259,333,333.0
+ATCCTCTCGATC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,304,432,432.0
+ATCCTCTCGATG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,286,374,374.0
+ATCCTCTCGATT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,258,349,349.0
+ATCCTTTGATAC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,210,242,242.0
+ATCGCAATCTAT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,352,550,550.0
+ATCGGGCGGTAG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,807,1315,1315.0
+ATGAGAATGATG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,923,1340,1340.0
+ATGAGCCATTCC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,838,1249,1249.0
+ATGCAACTCGCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1230,2102,2102.0
+ATGCACCTCGCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,202,260,260.0
+ATGCACTCAATA_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,293,342,342.0
+ATGCCATCAGCA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,538,822,822.0
+ATGCCATCAGCC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,594,957,957.0
+ATGCCATCAGCT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,566,889,889.0
+ATGCCTCATGCT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,203,368,368.0
+ATGGGCCGCGCA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,814,1241,1241.0
+ATGTGACAGATG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,253,344,344.0
+ATTCAGCCACAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,826,1359,1359.0
+ATTCAGTGAATA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,488,702,702.0
+ATTCAGTGAATC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,472,663,663.0
+ATTCAGTGAATG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,522,741,741.0
+ATTCAGTGAATT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,408,584,584.0
+ATTCATTCAAAC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,949,1623,1623.0
+ATTCCTGACGTA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,200,354,354.0
+ATTCGTAAGGAT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,284,413,413.0
+ATTGCAGAGCAT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,625,980,980.0
+ATTGCGGGTGCA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,485,738,738.0
+ATTGGACTCTTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,198,263,263.0
+ATTGGCGGGCCA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,221,289,289.0
+ATTTCTGTTTTG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,732,1269,1269.0
+ATTTGCTGTCGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,649,832,832.0
+ATTTTGACAATG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,441,621,621.0
+ATTTTTAAACTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,622,829,829.0
+CAAAAAATCATG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,351,486,486.0
+CAAACCTCACTT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,484,791,791.0
+CAAACGTAGTAC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,266,326,326.0
+CAAAGGTACTAC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,209,248,248.0
+CAAAGGTAGTCC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,244,279,279.0
+CAACCGTTAACT_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,392,676,676.0
+CAACGGTAGCTT_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,513,797,797.0
+CAACTTTAGCGC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,351,418,418.0
+CAAGCGAAGTGA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,290,454,454.0
+CAATCGGGTTTA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,740,1030,1030.0
+CAATTTCCCTTC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1209,1950,1950.0
+CACAAGGTGATG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,478,750,750.0
+CACAATCTATGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,820,1346,1346.0
+CACAGCATAGCG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,690,957,957.0
+CACATGAGATAC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,300,383,383.0
+CACCAGATAAAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,635,1037,1037.0
+CACCATGTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,265,395,395.0
+CACCCTCAATAG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,315,425,425.0
+CACCCTGTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,589,996,996.0
+CACCGCTGATCC_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1087,1743,1743.0
+CACCGTATGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,212,289,289.0
+CACCGTCTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,567,991,991.0
+CACCGTGAGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,760,1393,1393.0
+CACCGTGTCAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,422,673,673.0
+CACCGTGTGACA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,353,538,538.0
+CACCGTGTGAGC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,899,1660,1660.0
+CACCTGCCTTGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,679,926,926.0
+CACGATACTAAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,259,439,439.0
+CACGCTGGAGGA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,255,343,343.0
+CACGGTGCTCTT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,693,1204,1204.0
+CACTATAGCCTT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,217,363,363.0
+CACTCAGTATGA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,475,691,691.0
+CACTCCAACGAA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,702,1106,1106.0
+CACTCCAACGAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,755,1160,1160.0
+CACTCCAACGAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,717,1137,1137.0
+CACTCCAACGAT_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,672,1020,1020.0
+CACTCGACGGGA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,376,525,525.0
+CACTGAAACGAA_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1100,1495,1495.0
+CACTGAAACGAC_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1020,1484,1484.0
+CACTGAAACGAG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1231,1773,1773.0
+CACTGAAACGAT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1046,1482,1482.0
+CACTTGGCATAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,319,475,475.0
+CACTTGGCATAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,367,505,505.0
+CACTTGGCATAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,393,540,540.0
+CACTTGGCATAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,403,556,556.0
+CAGAGGCCTTCA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,196,237,237.0
+CAGAGGCCTTCC_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,215,277,277.0
+CAGAGGCCTTCG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,229,269,269.0
+CAGCACAAGGTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,386,714,714.0
+CAGCACAGTTAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,286,425,425.0
+CAGCGACGGCCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1006,1559,1559.0
+CAGCTCGGATAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,987,2778,2778.0
+CAGCTGGTTTCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,485,772,772.0
+CAGCTTTGTGGG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,234,309,309.0
+CAGGATTCAGTA_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,430,529,529.0
+CAGGATTCAGTC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,443,561,561.0
+CAGGATTCAGTG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,536,653,653.0
+CAGGATTCAGTT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,520,649,649.0
+CAGGCGACCCAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,261,334,334.0
+CAGGCGCCGACA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,970,1661,1661.0
+CAGGGGCTCAAA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,599,912,912.0
+CAGGTTAGGACA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,376,565,565.0
+CAGTCAAAGGTA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,315,420,420.0
+CAGTTAACACAC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,636,910,910.0
+CATAAACCTTTA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,198,267,267.0
+CATAAACCTTTC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,224,301,301.0
+CATAAACCTTTG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,292,376,376.0
+CATAAACCTTTT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,225,296,296.0
+CATACGATACAT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,296,414,414.0
+CATATGTAAAAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,390,1097,1097.0
+CATCCTAAGAAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,203,274,274.0
+CATCGGACCTGG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,459,531,531.0
+CATCGGCACTTA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,379,581,581.0
+CATCGGCACTTC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,375,527,527.0
+CATCGGCACTTG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,376,565,565.0
+CATCGGCACTTT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,331,480,480.0
+CATGCAAATGCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,579,796,796.0
+CATGCTAATAAC_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,874,1520,1520.0
+CATGTCGCCTGC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,656,971,971.0
+CATTCCAGGAAA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,277,358,358.0
+CATTCCGGGAGA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,239,314,314.0
+CATTGGCCTTGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,315,447,447.0
+CATTGGCCTTGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,295,390,390.0
+CATTGGCCTTGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,322,430,430.0
+CATTGGCCTTGT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,267,352,352.0
+CATTTCTTAATC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,464,675,675.0
+CCAACGGGTATG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,540,705,705.0
+CCACAAGGCGCC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,277,406,406.0
+CCACACTTTACG_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,293,548,548.0
+CCACAGCTTACG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,598,1221,1221.0
+CCACCGCCAACG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,774,1423,1423.0
+CCACGCACAATT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1048,1708,1708.0
+CCACGCGAGGCT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,412,613,613.0
+CCACGGGGTATG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,787,1275,1275.0
+CCAGCAAATTAA_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1033,1659,1659.0
+CCAGCAAGTGCT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,317,444,444.0
+CCAGCAATTACT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,460,675,675.0
+CCATAAGTTTGT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,652,1110,1110.0
+CCATATTGACGA_2,WT mice (Striatum),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,484,726,726.0
+CCATCCCCGTAC_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,182,219,219.0
+CCATCCCCGTAG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,195,243,243.0
+CCCAAAGGGGAA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,672,1208,1208.0
+CCCAAGTGGCTG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,617,899,899.0
+CCCATGGCCATC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,329,377,377.0
+CCCATGGCGCTC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,640,797,797.0
+CCCATTACAACC_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,484,740,740.0
+CCCCAATGGTTA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,351,450,450.0
+CCCCAATGGTTC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,328,426,426.0
+CCCCAATGGTTG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,448,623,623.0
+CCCCAATGGTTT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,302,375,375.0
+CCCCACGCCCGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,196,296,296.0
+CCCCCTGGGTAT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,897,1588,1588.0
+CCCCGATTTGAC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,253,336,336.0
+CCCCGTGTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,443,696,696.0
+CCCGACTGGCCC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,542,790,790.0
+CCCGAGAGAAAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,203,264,264.0
+CCCGAGTGGGAT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,949,1705,1705.0
+CCCGATGCTGCC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,308,388,388.0
+CCCGCCATCTCC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,732,1260,1260.0
+CCCGGCTCTGGT_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,270,482,482.0
+CCCGTCCCGGTA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,385,510,510.0
+CCCGTCCCGGTC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,445,627,627.0
+CCCGTCCCGGTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,376,494,494.0
+CCCGTCCCGGTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,362,492,492.0
+CCCTCGCGCTCC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,429,601,601.0
+CCGATCAAATGG_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,697,1002,1002.0
+CCGATCCAATGA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,506,643,643.0
+CCGATCCAATGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,433,532,532.0
+CCGATCCAATGG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,451,550,550.0
+CCGATCCAATGT_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,489,601,601.0
+CCGATCGACTAG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,216,257,257.0
+CCGATCTACACC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,236,259,259.0
+CCGATGTATAGA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1061,1608,1608.0
+CCGCGCGGTATT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,196,277,277.0
+CCGCTCGCCCGC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,256,406,406.0
+CCGGCGCATGGA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,896,1402,1402.0
+CCGGCGCATGGC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,756,1269,1269.0
+CCGGCGCATGGG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1031,1881,1881.0
+CCGGCGCATGGT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,702,1127,1127.0
+CCGTATAGACTG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,238,297,297.0
+CCGTCATAGACG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1019,1542,1542.0
+CCGTCCTATTCA_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,218,254,254.0
+CCGTCCTATTCC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,195,242,242.0
+CCGTCCTATTCG_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,223,260,260.0
+CCGTGGATAGGG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,437,611,611.0
+CCGTTGATAATG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1036,1909,1909.0
+CCGTTGCCGTAA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,727,1139,1139.0
+CCGTTGCCGTAC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,684,1150,1150.0
+CCGTTGCCGTAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,880,1437,1437.0
+CCGTTGCCGTAT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,802,1248,1248.0
+CCTAATCCCAGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1087,1850,1850.0
+CCTACATGGTTA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,394,807,807.0
+CCTACATGGTTC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,445,930,930.0
+CCTACATGGTTG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,469,998,998.0
+CCTACATGGTTT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,443,920,920.0
+CCTACCTGATGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,338,468,468.0
+CCTACGGGCCGC_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,279,335,335.0
+CCTAGATGAATC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,487,631,631.0
+CCTAGCTCATGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,335,477,477.0
+CCTAGCTGATCA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,249,349,349.0
+CCTAGCTGATGC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,478,697,697.0
+CCTATAGATATA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,274,308,308.0
+CCTATAGATATC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,258,313,313.0
+CCTATAGATATG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,267,320,320.0
+CCTATAGATATT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,336,383,383.0
+CCTATCCCTTCT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,270,430,430.0
+CCTATCCTATTA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,290,363,363.0
+CCTATCCTATTC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,381,480,480.0
+CCTATCCTATTG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,424,520,520.0
+CCTATCCTATTT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,367,473,473.0
+CCTCAACCCAGA_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1094,1882,1882.0
+CCTCACTACCGT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,270,344,344.0
+CCTCAGCTGGAA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,462,556,556.0
+CCTCAGCTGGAC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,483,604,604.0
+CCTCAGCTGGAG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,547,704,704.0
+CCTCAGCTGGAT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,443,548,548.0
+CCTCATCCCAAA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,276,353,353.0
+CCTCATCCCACA_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,579,836,836.0
+CCTCATCCCAGC_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1262,2098,2098.0
+CCTCATCCCAGG_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,208,263,263.0
+CCTCATCCCAGT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,221,278,278.0
+CCTCATCCCATA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,386,508,508.0
+CCTCATTAAGTG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1059,1935,1935.0
+CCTCCGAACTGA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,577,777,777.0
+CCTCCTCCCAGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,688,998,998.0
+CCTCGAACTGCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,334,527,527.0
+CCTCGACGTAAA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,317,582,582.0
+CCTCGCCCCTGT_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,419,532,532.0
+CCTCTTCTACCT_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,560,887,887.0
+CCTGATGCGCTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1111,1538,1538.0
+CCTGATGCGCTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1068,1451,1451.0
+CCTGATGCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1258,1735,1735.0
+CCTGATGCGCTT_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,765,997,997.0
+CCTGCCATTCGG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,413,668,668.0
+CCTGCCCGTGCC_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,503,693,693.0
+CCTGCCCTGCGC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,215,283,283.0
+CCTGCCCTGCGG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,212,272,272.0
+CCTGGTTCTGGG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,670,1032,1032.0
+CCTGTATCATGC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1014,1531,1531.0
+CCTGTTATCGAG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,623,892,892.0
+CCTTCAGGTGGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,942,1475,1475.0
+CCTTTTTGTCAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,269,351,351.0
+CGAAACCCAGTC_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,832,1525,1525.0
+CGAAGCAATGGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,229,332,332.0
+CGAATCTGAATT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,574,774,774.0
+CGACCACGTTGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,202,261,261.0
+CGACCTATGCGA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,295,408,408.0
+CGACCTATGCGC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,432,612,612.0
+CGACCTATGCGG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,329,445,445.0
+CGACCTATGCGT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,332,435,435.0
+CGACGAGGAATA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,222,256,256.0
+CGACGAGGAATC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,212,255,255.0
+CGACGAGGAATG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,254,290,290.0
+CGACGAGGAATT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,230,268,268.0
+CGACTGTAGTAA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,284,426,426.0
+CGAGAGCTAACC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,238,314,314.0
+CGAGCATGAGAG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,613,916,916.0
+CGAGGCCCATAA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,296,396,396.0
+CGAGGCGTCCTC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,321,378,378.0
+CGAGTCACTCAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,326,521,521.0
+CGAGTTGTGCGA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,750,1448,1448.0
+CGATTGCTCAAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,345,490,490.0
+CGCACTCCTGCC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,242,284,284.0
+CGCACTTCTTCG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,327,503,503.0
+CGCAGGCCCCGC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,659,1268,1268.0
+CGCATCAACCTA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,602,918,918.0
+CGCATCAACCTC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,649,1007,1007.0
+CGCATCAACCTG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,805,1317,1317.0
+CGCATCAACCTT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,616,951,951.0
+CGCCAGCTCCCG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,573,894,894.0
+CGCCATCAACCT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,419,591,591.0
+CGCCTACCTTGC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,284,327,327.0
+CGCCTGCCTTAC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,304,342,342.0
+CGCCTGCCTTGT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,369,438,438.0
+CGCCTGTCTTGC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,256,296,296.0
+CGCCTTATATTC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,656,965,965.0
+CGCGAGCACCTC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,860,1265,1265.0
+CGCGCGTCTGCA_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,496,705,705.0
+CGCGCGTCTGCC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,572,899,899.0
+CGCGCGTCTGCG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,420,613,613.0
+CGCGCGTCTGCT_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,537,827,827.0
+CGCTTGCCTTGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,530,675,675.0
+CGGAAGGGTCAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,432,589,589.0
+CGGAAGGGTCAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,380,524,524.0
+CGGAAGGGTCAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,388,590,590.0
+CGGAAGGGTCAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,423,611,611.0
+CGGAGGATCATC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,923,1574,1574.0
+CGGATGGATGAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,715,1188,1188.0
+CGGCATTAGTGA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,406,571,571.0
+CGGCATTAGTGC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,327,465,465.0
+CGGCATTAGTGG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,526,805,805.0
+CGGCATTAGTGT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,383,552,552.0
+CGGCGAAATGTA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,201,300,300.0
+CGGCGTATCCAC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,663,1109,1109.0
+CGGCGTTAAGGG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,649,1155,1155.0
+CGGCTACGACTT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,656,827,827.0
+CGGGCATAGATG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,559,898,898.0
+CGGGCCAGTGTC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,563,857,857.0
+CGGGGGGGGGGG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,930,998,998.0
+CGGGGGGGGGGG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1328,1392,1392.0
+CGGGTATACTGC_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,754,1341,1341.0
+CGGTACTGGGAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,704,951,951.0
+CGGTGCTTCAAA_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,375,530,530.0
+CGGTTAAAATTT_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1202,2211,2211.0
+CGGTTCCAAGGA_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,810,2244,2244.0
+CGTAAGCGCCGC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,458,706,706.0
+CGTACGGCCGCA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,248,297,297.0
+CGTACGGCCGCC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,323,419,419.0
+CGTACGGCCGCG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,336,449,449.0
+CGTACGGCCGCT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,259,342,342.0
+CGTACGTAAAGG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,318,427,427.0
+CGTCCCGCTTTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,567,679,679.0
+CGTCCCGCTTTC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,668,833,833.0
+CGTCCCGCTTTG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,634,822,822.0
+CGTCCCGCTTTT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,659,817,817.0
+CGTCGTCCCGCG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,518,915,915.0
+CGTCTATCCTCA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,405,552,552.0
+CGTCTCCCGCTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,269,393,393.0
+CGTCTGCCTCAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,204,246,246.0
+CGTCTGCCTCAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,209,257,257.0
+CGTCTGCCTCAT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,215,258,258.0
+CGTCTGCCTCCC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,247,305,305.0
+CGTCTGCCTCCG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,243,303,303.0
+CGTCTGCCTCCT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,266,308,308.0
+CGTCTGCCTCGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,205,248,248.0
+CGTCTGCCTCGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,236,284,284.0
+CGTCTGCCTCGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,305,380,380.0
+CGTCTGCCTCGT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,241,283,283.0
+CGTCTGCCTTGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,303,348,348.0
+CGTCTTAGGACA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,894,1673,1673.0
+CGTGCACATCTA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,493,1461,1461.0
+CGTTAATAGATG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,547,675,675.0
+CGTTTCGAGTTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,232,397,397.0
+CGTTTCGATGCA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,210,271,271.0
+CGTTTGGGGCAT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,263,343,343.0
+CTAACCCACGGC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,468,724,724.0
+CTAAGCTTCCAG_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,952,1642,1642.0
+CTAATACACCAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,207,239,239.0
+CTACCCGAGCGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,389,891,891.0
+CTACCGCAGCGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,376,846,846.0
+CTACCGGACCGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,317,676,676.0
+CTACCGGAGCCA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,375,773,773.0
+CTACCGGAGCGC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,954,2288,2288.0
+CTAGCCGTGCAT_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,732,1541,1541.0
+CTAGGCATAACT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1310,2456,2456.0
+CTATCCATTTAA_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,810,1128,1128.0
+CTATCCTCCATG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,290,402,402.0
+CTATGCCATATT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,638,859,859.0
+CTATGCTTAATT_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1018,1456,1456.0
+CTCATTCGTTGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,384,495,495.0
+CTCATTCGTTGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,439,592,592.0
+CTCATTCGTTGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,522,751,751.0
+CTCATTCGTTGT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,368,498,498.0
+CTCCCGGAGCGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,301,642,642.0
+CTCCGACGGCCC_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,391,484,484.0
+CTCCGATGTCAA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,630,893,893.0
+CTCCGATGTCAC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,670,953,953.0
+CTCCGATGTCAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,739,1106,1106.0
+CTCCGATGTCAT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,517,719,719.0
+CTCCGTGCTCTT_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,243,338,338.0
+CTCCTGGCGGCA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,354,482,482.0
+CTCGCTGCTCTT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,296,428,428.0
+CTGAAGTCCCTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,514,769,769.0
+CTGAATCATCCT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,209,223,223.0
+CTGCAACGGCCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,204,245,245.0
+CTGCCACGGCCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,406,489,489.0
+CTGCCCACGTGA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,310,431,431.0
+CTGCCTTATCAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,205,249,249.0
+CTGCGACCGCCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,393,453,453.0
+CTGCGACGCCCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,382,468,468.0
+CTGCGTGCCGTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,307,410,410.0
+CTGCTACTAGTT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,345,463,463.0
+CTGCTATAGTAG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,862,1552,1552.0
+CTGGAACTATCA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,238,282,282.0
+CTGGAACTATCC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,225,263,263.0
+CTGGAACTATCG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,264,316,316.0
+CTGGAACTATCT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,211,233,233.0
+CTGGACGGCAAA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,589,909,909.0
+CTGGTACGCATA_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,493,862,862.0
+CTGGTCCGGGGA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,999,1773,1773.0
+CTGTCGTGCGGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,345,502,502.0
+CTGTGGGTCTCA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,344,488,488.0
+CTGTGTAAAGCG_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,252,304,304.0
+CTTACGAACACT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,194,242,242.0
+CTTAGAAAGAGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,794,1217,1217.0
+CTTAGAGTTAGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,372,998,998.0
+CTTAGTTTGCTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,271,357,357.0
+CTTCATCCCAGA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,215,266,266.0
+CTTTAAACGCTA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,422,583,583.0
+CTTTAAACGCTC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,506,713,713.0
+CTTTAAACGCTG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,502,708,708.0
+CTTTAAACGCTT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,591,860,860.0
+CTTTCTGCTGTG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,632,993,993.0
+CTTTGGCTAGTG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,219,299,299.0
+CTTTTTAAACTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1092,1632,1632.0
+GAAAACTAATTA_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,352,639,639.0
+GAAAACTGTTTA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,502,794,794.0
+GAAACTCGGCCG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,210,288,288.0
+GAAAGTGCCTTG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,667,931,931.0
+GAACCGTTCATG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,891,1495,1495.0
+GAAGACACGTTT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,915,1355,1355.0
+GAAGCCATTAAC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,613,822,822.0
+GAAGGTTCCAGC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,298,407,407.0
+GAATGTTCGGGG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,197,241,241.0
+GACAAAGCTGAC_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,780,1249,1249.0
+GACAATTCAGGT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,213,300,300.0
+GACCATGGTCCT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,829,1113,1113.0
+GACCATGTACGA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,455,669,669.0
+GACCGATACCAG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,213,301,301.0
+GACCGGTATATA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,427,580,580.0
+GACCGGTATATC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,503,699,699.0
+GACCGGTATATG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,589,847,847.0
+GACCGGTATATT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,541,754,754.0
+GACGAATAGCCG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,334,553,553.0
+GACGGCATTATA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,752,1250,1250.0
+GACGTACAAACC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,730,1170,1170.0
+GACGTGGAAGGA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,366,423,423.0
+GACGTGGAAGGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,277,333,333.0
+GACGTGGAAGGG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,500,631,631.0
+GACGTGGAAGGT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,295,355,355.0
+GAGAAGTCCCTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,535,825,825.0
+GAGCAGGCGGCA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,387,450,450.0
+GAGCAGGCGGCC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,425,500,500.0
+GAGCAGGCGGCG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,453,557,557.0
+GAGCAGGCGGCT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,375,425,425.0
+GAGCAGTCACCT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,259,361,361.0
+GAGCATCTTTTT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,232,312,312.0
+GAGCCATAGTCG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,627,1676,1676.0
+GAGCTACGACTT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,203,219,219.0
+GAGGCTAGAAAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,246,324,324.0
+GAGGCTGACGAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,239,333,333.0
+GAGTATCGCCGG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,400,466,466.0
+GAGTTAACTCAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,326,429,429.0
+GAGTTAACTCAC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,309,418,418.0
+GAGTTAACTCAG_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,342,468,468.0
+GAGTTAACTCAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,349,479,479.0
+GATAGGAACCGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,312,388,388.0
+GATAGGAACCGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,347,437,437.0
+GATAGGAACCGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,446,575,575.0
+GATAGGAACCGT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,246,319,319.0
+GATCCTAAGAGT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,658,1052,1052.0
+GATCGACAGGGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,980,1719,1719.0
+GATCTACATCTA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,448,612,612.0
+GATCTACATCTC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,460,602,602.0
+GATCTACATCTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,479,650,650.0
+GATCTACATCTT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,395,530,530.0
+GATCTCTCGAAA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1132,2238,2238.0
+GATGTCGGCAGC_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,256,403,403.0
+GATTAGGATCCG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,244,350,350.0
+GATTCCGCTTGA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,485,624,624.0
+GATTCCGCTTGC_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,455,587,587.0
+GATTCCGCTTGG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,568,794,794.0
+GATTCTGGGGGG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,562,836,836.0
+GATTGCACGCAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,652,1047,1047.0
+GATTGTTACCAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,314,471,471.0
+GATTTTAAAACG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,245,320,320.0
+GATTTTAAACTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1085,1558,1558.0
+GATTTTACGCCA_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,514,775,775.0
+GATTTTGCACGA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,373,510,510.0
+GCAAAGTCGGAG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,826,1317,1317.0
+GCAACTCTAATG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,485,619,619.0
+GCAATTCAGCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,487,721,721.0
+GCAATTGACCGG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,335,458,458.0
+GCAATTGAGCCG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,439,623,623.0
+GCAATTGAGCGC_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,485,698,698.0
+GCAATTGAGCTG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,362,481,481.0
+GCAATTGAGTGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,244,300,300.0
+GCACAATGCAGC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,227,408,408.0
+GCACAGTTATCG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,644,1047,1047.0
+GCACATTACGGC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,364,505,505.0
+GCACGCCTCGAC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,194,334,334.0
+GCACTGAAGGGT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,595,994,994.0
+GCATAACCTGCT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,475,616,616.0
+GCATCAGTAAAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,343,446,446.0
+GCATGGGCGCTG_1,WT mice (Midbrain),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,637,922,922.0
+GCCATCACGACA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,248,286,286.0
+GCCATGATTATC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,291,325,325.0
+GCCATGATTATG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,316,364,364.0
+GCCATGCGAGGA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,218,251,251.0
+GCCATGCGAGGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,224,248,248.0
+GCCATGCGAGGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,350,423,423.0
+GCCCACTTGTAA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,470,612,612.0
+GCCCACTTGTAC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,463,605,605.0
+GCCCACTTGTAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,521,702,702.0
+GCCCACTTGTAT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,504,653,653.0
+GCCCCGTGCGCA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1043,1685,1685.0
+GCCCCTCTGTTA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,637,1023,1023.0
+GCCCTAACTAAC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,210,309,309.0
+GCCCTAGGCTTG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,371,556,556.0
+GCCCTGCATAAA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,378,488,488.0
+GCCCTGCATAAC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,407,523,523.0
+GCCCTGCATAAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,493,669,669.0
+GCCCTGCATAAT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,314,394,394.0
+GCCGAAAGAGAC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,242,305,305.0
+GCCGACACTAGA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,520,630,630.0
+GCCGACACTAGC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,445,519,519.0
+GCCGACACTAGG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,600,777,777.0
+GCCGACACTAGT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,285,323,323.0
+GCCGAGGGATGT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,258,369,369.0
+GCCGATGCTGCC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,659,984,984.0
+GCCGCCATCTCC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1227,2435,2435.0
+GCCGCCGAAAGG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,542,831,831.0
+GCCGGCTGTCCC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,862,1321,1321.0
+GCCGGTCCGGAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1009,1674,1674.0
+GCCGTTTCCACG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,351,534,534.0
+GCCTGGACGTTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,292,424,424.0
+GCGAAGCTTTGG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,308,392,392.0
+GCGAGTCCCAGG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,241,341,341.0
+GCGAGTGAAATA_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1118,1728,1728.0
+GCGATCAAATGC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,215,251,251.0
+GCGATCCCACCA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,246,291,291.0
+GCGATCCCACCC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,239,294,294.0
+GCGATCCCACCG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,273,335,335.0
+GCGATCCCACCT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,200,243,243.0
+GCGATTAGGAAC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,933,2299,2299.0
+GCGCAATGACAT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,337,489,489.0
+GCGCATAAATCA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,715,1191,1191.0
+GCGCCTGCCCAA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,207,274,274.0
+GCGCCTGCCCAC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,240,311,311.0
+GCGCCTGCCCAG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,272,389,389.0
+GCGCGATTTGCG_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,855,1482,1482.0
+GCGCGTTTCCTG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,249,359,359.0
+GCGCTACCCACG_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,965,1798,1798.0
+GCGCTACGACTT_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,350,419,419.0
+GCGCTAGCCTCA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,270,334,334.0
+GCGCTAGCCTCC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,264,353,353.0
+GCGCTAGCCTCG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,287,380,380.0
+GCGCTCTCTGGG_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,410,548,548.0
+GCGCTTTGTGGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,546,882,882.0
+GCGGAATTTTGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,247,269,269.0
+GCGGAATTTTGC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,241,273,273.0
+GCGGAATTTTGG_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,320,355,355.0
+GCGGAATTTTTT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,262,297,297.0
+GCGGCCTATGAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,307,404,404.0
+GCGGCTTTACTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,596,991,991.0
+GCGGGCGACAAA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,209,265,265.0
+GCGGGCGACAAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,236,308,308.0
+GCGGGCGACAAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,320,440,440.0
+GCGGGCGACAAT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,268,352,352.0
+GCGTATCGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,832,1085,1085.0
+GCGTCGATAAAT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,257,353,353.0
+GCGTGTGACTAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,704,1136,1136.0
+GCGTTCCAAGGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,389,942,942.0
+GCGTTTTAGCCG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,354,487,487.0
+GCTACAGGTGTA_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,457,684,684.0
+GCTACGTAAAGG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,241,317,317.0
+GCTATAAGCGGG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,545,743,743.0
+GCTCATCCCAGA_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,819,1249,1249.0
+GCTCATCTCCGC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,374,528,528.0
+GCTCATGCGCTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,447,530,530.0
+GCTCATGCGCTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,408,477,477.0
+GCTCATGCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,464,544,544.0
+GCTCATGCGCTT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,274,311,311.0
+GCTCCATGCCAA_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,995,1638,1638.0
+GCTCGCGCTTTA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,232,322,322.0
+GCTCTATCCTCA_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,264,325,325.0
+GCTGATCCGCTA_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,307,351,351.0
+GCTGATCCGCTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,309,343,343.0
+GCTGATCCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,303,345,345.0
+GCTGATGCACTG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,208,236,236.0
+GCTGATGCCCTA_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,255,287,287.0
+GCTGATGCCCTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,256,295,295.0
+GCTGATGCCCTG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,248,273,273.0
+GCTGCACATCTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,256,784,784.0
+GCTGCCCCCAAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,222,293,293.0
+GCTGCCCCCAAC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,264,336,336.0
+GCTGCCCCCAAG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,307,419,419.0
+GCTGCCCCCAAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,214,264,264.0
+GCTGCTGCGCTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,769,977,977.0
+GCTGCTGCGCTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,859,1119,1119.0
+GCTGCTGCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,862,1092,1092.0
+GCTGCTGCGCTT_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,569,690,690.0
+GCTGTATGATCG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,383,607,607.0
+GCTTAGTACCGG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,618,1056,1056.0
+GCTTTTACCAAT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,255,358,358.0
+GCTTTTTTCGGA_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,323,468,468.0
+GGAAACAAATTA_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,901,1921,1921.0
+GGAAACTAATTT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,468,847,847.0
+GGAAACTTCCTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,215,281,281.0
+GGAAATTAATTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,298,446,446.0
+GGAACTGCTGGT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1075,1748,1748.0
+GGAAGCAATGGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,960,1693,1693.0
+GGAATGATGCCC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,280,380,380.0
+GGAATGATGCCG_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,213,292,292.0
+GGAATGCTGCGC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,491,776,776.0
+GGACATTCTGGC_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,394,562,562.0
+GGACGTTATCCA_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1232,1964,1964.0
+GGACTACTCATA_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,773,1253,1253.0
+GGAGCAATTGAA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,822,1427,1427.0
+GGAGCCACCACA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,896,1290,1290.0
+GGAGCGGGACGG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,425,781,781.0
+GGAGGCGCCATT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,626,896,896.0
+GGAGTATCCAAG_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,516,647,647.0
+GGAGTGAAATGA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,557,904,904.0
+GGATAGAACACC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1056,1695,1695.0
+GGATATCGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,341,384,384.0
+GGATTGCTCAAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1287,2299,2299.0
+GGATTGCTCACC_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,327,438,438.0
+GGCACATATCTG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,284,377,377.0
+GGCACTTCTTCG_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1340,2854,2854.0
+GGCAGCTTCCTT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,419,1043,1043.0
+GGCCAGACTAAG_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,557,805,805.0
+GGCCATGACTCC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,202,252,252.0
+GGCCCCAGATTA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,434,523,523.0
+GGCCCCAGATTC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,472,589,589.0
+GGCCCCAGATTG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,506,641,641.0
+GGCCCCAGATTT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,546,690,690.0
+GGCCGACAAAAA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,557,787,787.0
+GGCCGCCCGCAG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,236,360,360.0
+GGCCTGAGCAAC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,234,303,303.0
+GGCCTTCGGGAA_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,505,715,715.0
+GGCCTTCGGGAC_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,521,758,758.0
+GGCCTTCGGGAG_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,664,980,980.0
+GGCCTTCGGGAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,542,802,802.0
+GGCGATCCCCCA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,264,503,503.0
+GGCGCCTTCACC_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,644,1042,1042.0
+GGCGGCGTCCTC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,401,476,476.0
+GGCTAAGCAGAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,262,328,328.0
+GGCTATCGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,584,719,719.0
+GGCTCCCCGCAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,741,1208,1208.0
+GGCTGTCAAGGC_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,391,605,605.0
+GGCTTCCAAGGA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,300,721,721.0
+GGGAAAATGGAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,251,308,308.0
+GGGAAAATGGAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,217,277,277.0
+GGGAAAATGGAG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,261,341,341.0
+GGGAAAATGGAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,324,414,414.0
+GGGACCGAGCCG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,529,757,757.0
+GGGATTGACCCC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,979,1756,1756.0
+GGGCAAGATCGA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,852,1246,1246.0
+GGGCACAGGGAA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,197,247,247.0
+GGGCACAGGGAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,225,277,277.0
+GGGCACAGGGAG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,265,350,350.0
+GGGCACAGGGAT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,206,268,268.0
+GGGCCCTGCAAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,199,256,256.0
+GGGCCCTGCAAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,280,369,369.0
+GGGCCCTGGTGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,260,372,372.0
+GGGCCTGAGGCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,755,1271,1271.0
+GGGCCTGGTGTG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,941,1289,1289.0
+GGGCTAAATGAT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,789,1267,1267.0
+GGGCTACCACTT_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,210,226,226.0
+GGGCTACGCCTT_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1182,1733,1733.0
+GGGCTTGGTTGC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,532,692,692.0
+GGGGCCCTTCGT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,795,1318,1318.0
+GGGTATCACCGG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,547,690,690.0
+GGGTATCCCCGG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,562,696,696.0
+GGGTATCGCCAG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,364,429,429.0
+GGGTATCGCCCG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,612,753,753.0
+GGGTATCGCCGA_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,240,262,262.0
+GGGTATCGCCGC_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,580,710,710.0
+GGGTATCGCCGT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,276,321,321.0
+GGGTATCGCCTG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,375,438,438.0
+GGGTATCGCGGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,359,401,401.0
+GGGTATCTCCGG_1,WT mice (Midbrain),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,307,341,341.0
+GGGTATTGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,244,267,267.0
+GGGTCTCGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,290,330,330.0
+GGGTTCCAACGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,342,850,850.0
+GGGTTCCAAGCA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,249,632,632.0
+GGGTTCCAAGGC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1030,2621,2621.0
+GGGTTCCAAGGG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,220,504,504.0
+GGGTTCCAAGGT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,370,850,850.0
+GGGTTTTTCGGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,868,1529,1529.0
+GGTACGTAAAGG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1253,2324,2324.0
+GGTATAGAAGGT_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,457,674,674.0
+GGTCAAGGTACA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,280,372,372.0
+GGTCCCTTCTCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,601,939,939.0
+GGTGAGGGACCG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,463,630,630.0
+GGTGGGGCCACG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,229,303,303.0
+GGTGTCAACAGC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,863,1302,1302.0
+GGTGTCGTCCAA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,541,790,790.0
+GGTGTTACGGGA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,742,1039,1039.0
+GGTGTTTGAATC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,344,510,510.0
+GGTTATTTAGTT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,216,250,250.0
+GGTTCCCGACGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1090,1963,1963.0
+GGTTCTGCTGTG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,679,1084,1084.0
+GGTTTAGCCAGT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,853,1360,1360.0
+GGTTTTAAACTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1093,1641,1641.0
+GTAAACACATTT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,851,1402,1402.0
+GTAAATAACTCC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,631,1058,1058.0
+GTAACGATTCGA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,914,1505,1505.0
+GTAATGGAGGTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1128,1488,1488.0
+GTAATTGAGCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,228,290,290.0
+GTACTCTCCCAT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,425,701,701.0
+GTACTTAATTCC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,239,313,313.0
+GTAGCATATCCA_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,221,310,310.0
+GTAGCATATCCC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,256,363,363.0
+GTAGCATATCCG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,196,289,289.0
+GTAGCATATCCT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,258,383,383.0
+GTAGCTTATCAT_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,783,1238,1238.0
+GTAGGCGTTACC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1117,1582,1582.0
+GTAGTACACCGG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,401,523,523.0
+GTAGTTTGAAGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1051,1694,1694.0
+GTATCCTTAATT_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,292,352,352.0
+GTATCTCCGGGA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,603,890,890.0
+GTATGCTTAAAT_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,426,511,511.0
+GTATTCGTATGT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,566,784,784.0
+GTATTGAAGAAC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,600,890,890.0
+GTCATAACGTGA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,277,367,367.0
+GTCATCCCCCAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,724,2590,2590.0
+GTCCTGGCGGCA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1287,2630,2630.0
+GTCGACTTGGGG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,472,627,627.0
+GTCGGACCAGAG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,364,567,567.0
+GTCGTTCCCTGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,963,1753,1753.0
+GTGAAAACACAA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1088,1819,1819.0
+GTGAATGACCGA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,339,473,473.0
+GTGAATGACCGC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,356,498,498.0
+GTGAATGACCGG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,407,598,598.0
+GTGAATGACCGT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,339,495,495.0
+GTGCAACACGTA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,265,296,296.0
+GTGCAACACGTC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,353,387,387.0
+GTGCAACACGTG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,344,386,386.0
+GTGCAACACGTT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,358,420,420.0
+GTGCAACTCGCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,574,811,811.0
+GTGCACTGAATA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,898,1208,1208.0
+GTGCTACGCATA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,226,320,320.0
+GTGCTCAGTGAG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,862,1246,1246.0
+GTGGGATTACGT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,883,1320,1320.0
+GTGGGGCTTACT_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,583,797,797.0
+GTGTATCGCCGG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,756,980,980.0
+GTGTCGTGATAT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,591,917,917.0
+GTGTGCCGTGTA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,195,233,233.0
+GTGTTAGTACCA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,247,286,286.0
+GTGTTAGTACCC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,253,326,326.0
+GTGTTAGTACCG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,233,300,300.0
+GTGTTAGTACCT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,241,278,278.0
+GTTAGCTGATGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,264,342,342.0
+GTTAGTGAGACA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,248,303,303.0
+GTTAGTGAGACC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,294,400,400.0
+GTTAGTGAGACG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,238,303,303.0
+GTTGAACCCTAG_2,WT mice (Striatum),S,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,412,552,552.0
+GTTGCTGATGGA_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,370,498,498.0
+GTTGCTGATGGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,307,394,394.0
+GTTGCTGATGGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,474,670,670.0
+GTTGCTGATGGT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,280,369,369.0
+GTTGTGCTAGTG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,273,376,376.0
+GTTTCGTTGTGA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,895,1474,1474.0
+GTTTCTGCTCTG_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,257,336,336.0
+TAAAAGATTGAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,237,351,351.0
+TAAAAGATTGAG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,248,382,382.0
+TAAAAGATTGAT_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,212,298,298.0
+TAAACCAGCATT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,768,1293,1293.0
+TAAAGACTCGCG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,372,488,488.0
+TAAATCCAATTA_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,227,265,265.0
+TAAATCCGAGTC_1,WT mice (Midbrain),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,583,918,918.0
+TAAATGGAGGTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1017,1345,1345.0
+TAAATTAACGAC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,682,1111,1111.0
+TAACGCGAAGTA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,440,644,644.0
+TAAGCAGGCTTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,276,316,316.0
+TAAGCAGGCTTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,334,386,386.0
+TAAGCAGGCTTG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,287,345,345.0
+TAAGCAGGCTTT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,283,340,340.0
+TAATTTCCCTTC_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,912,1422,1422.0
+TACAAGACAAAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,252,298,298.0
+TACACCTATCGT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,810,1165,1165.0
+TACAGACAACGG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,220,255,255.0
+TACAGCCAGTTC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,322,471,471.0
+TACAGTGAAAAA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,679,1099,1099.0
+TACCAAGAATAC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,207,256,256.0
+TACCAAGAATAG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,229,309,309.0
+TACCAAGAATAT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,227,291,291.0
+TACCAGACTAGC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,544,860,860.0
+TACCCACGAAAT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,275,395,395.0
+TACCCAGCAGAG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,686,1156,1156.0
+TACCCAGCATCT_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,251,351,351.0
+TACCCTATGTAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,635,895,895.0
+TACCGAATTGAT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,240,325,325.0
+TACCGTGTGAGA_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,242,353,353.0
+TACGATTCGTTG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1087,1704,1704.0
+TACGCACCATCT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,230,310,310.0
+TACGCAGCCTCT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,209,295,295.0
+TACGCCGCATCT_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,392,578,578.0
+TACGCGGCTTAA_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,423,503,503.0
+TACGCGGCTTAC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,472,572,572.0
+TACGCGGCTTAG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,545,679,679.0
+TACGCGGCTTAT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,462,552,552.0
+TACGCTACTCCG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,499,759,759.0
+TACGGGGATAGA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,347,461,461.0
+TACGTTCGCCGT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,600,951,951.0
+TACTAGAAATCC_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,402,547,547.0
+TAGAATTATCGT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,850,1356,1356.0
+TAGACACTTGGA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,903,1390,1390.0
+TAGACAGTGAGC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,210,251,251.0
+TAGAGTAGAATT_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,298,397,397.0
+TAGATTAGGGGA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,292,366,366.0
+TAGATTAGGGGC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,293,366,366.0
+TAGATTAGGGGG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,315,397,397.0
+TAGATTAGGGGT_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,290,366,366.0
+TAGCCCCAGAGT_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,195,289,289.0
+TAGCGAAGTGTT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,237,285,285.0
+TAGCTAGTAAAC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,292,377,377.0
+TAGGCGTTAGTT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,234,301,301.0
+TATAACTACCCA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,890,1234,1234.0
+TATAACTTAAAC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,327,464,464.0
+TATACGGGGAAT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1091,1759,1759.0
+TATAGTCAAGCT_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,754,1198,1198.0
+TATATGCGCCGC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,308,501,501.0
+TATCACAAATAC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,255,337,337.0
+TATCTCATAACC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,233,269,269.0
+TATCTGCGATTA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,859,1258,1258.0
+TATGCGTATGTG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,622,1010,1010.0
+TATGCTTGTAAC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,566,809,809.0
+TATGGTTCGTAA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,194,223,223.0
+TATGGTTCGTAG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,219,269,269.0
+TATGTATCATTA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,271,341,341.0
+TATGTATGAGCG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1027,1929,1929.0
+TATTATATGGGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,845,1311,1311.0
+TATTGGCGGGCC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,739,1223,1223.0
+TCAAGCAGGTGT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,992,1411,1411.0
+TCAATTAAATTC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,383,553,553.0
+TCACGATCTAAT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,197,281,281.0
+TCAGACGTTCTC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,486,683,683.0
+TCAGATGTCTGC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,620,1045,1045.0
+TCAGGATCAAAT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,449,574,574.0
+TCATCCATTGAA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,378,663,663.0
+TCATCGGAGGGG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,412,600,600.0
+TCATGAGTCCGG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,434,657,657.0
+TCATTGATCCTG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,205,320,320.0
+TCCACATGTTAA_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,300,390,390.0
+TCCACGCCTTGT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,214,306,306.0
+TCCACTGCAAGA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,240,289,289.0
+TCCAGAGAGGCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,333,472,472.0
+TCCAGAGGGAGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,368,496,496.0
+TCCAGGATGCGA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,319,414,414.0
+TCCATTACAGGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,205,276,276.0
+TCCCACGTGCAC_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,999,1656,1656.0
+TCCCAGAAAGTG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,702,1117,1117.0
+TCCCCATACTTT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,458,768,768.0
+TCCCGCGTTTTA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,232,336,336.0
+TCCCTAGCCTGT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1089,1933,1933.0
+TCCGCCGATCCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,453,696,696.0
+TCCGGGGTCATC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,360,574,574.0
+TCCGTTGTGACT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,796,1173,1173.0
+TCCTACCCGGCA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,794,1227,1227.0
+TCCTCACTTTCA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,406,568,568.0
+TCCTGATCTCAC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,202,259,259.0
+TCCTGTGTCGAG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,280,387,387.0
+TCCTTCGCACAA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,276,387,387.0
+TCGACAGGGCGG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1066,1901,1901.0
+TCGACGATTAAA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,280,381,381.0
+TCGACGATTAAC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,322,443,443.0
+TCGACGATTAAG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,319,421,421.0
+TCGACGATTAAT_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,342,473,473.0
+TCGATTAGTTAC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,288,350,350.0
+TCGATTCAACTA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,297,333,333.0
+TCGATTCAACTC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,328,388,388.0
+TCGATTCAACTG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,371,435,435.0
+TCGATTCAACTT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,325,371,371.0
+TCGCCGAATTAT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,358,498,498.0
+TCGCCGTCGGAC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1021,1650,1650.0
+TCGCTTGACCAA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,265,337,337.0
+TCGGCCAAATTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,309,376,376.0
+TCGGCCAAATTC_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,361,444,444.0
+TCGGCCAAATTG_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,395,484,484.0
+TCGGCCAAATTT_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,358,451,451.0
+TCGGCGTCAGCC_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,972,1665,1665.0
+TCGGGAAGCATC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,576,691,691.0
+TCGGTCCAGCAA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,275,370,370.0
+TCGTAACGATCA_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,525,789,789.0
+TCGTAACGATCC_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,531,808,808.0
+TCGTAACGATCG_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,557,857,857.0
+TCGTAACGATCT_1,WT mice (Midbrain),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,500,748,748.0
+TCGTAGTATACC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,204,279,279.0
+TCGTTAGGGCTG_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,330,495,495.0
+TCTAACTAGAGT_2,WT mice (Striatum),S,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,284,375,375.0
+TCTAGGAAGCCC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,411,555,555.0
+TCTCAGACTGTG_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,227,413,413.0
+TCTCATCCCAGA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,384,494,494.0
+TCTCCAGGAGAA_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,551,781,781.0
+TCTCCAGGAGAC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,483,649,649.0
+TCTCCAGGAGAG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,645,974,974.0
+TCTCCAGGAGAT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,370,508,508.0
+TCTGACAATTTT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,554,741,741.0
+TCTGATGCGCTA_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,844,1099,1099.0
+TCTGATGCGCTC_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,824,1047,1047.0
+TCTGATGCGCTG_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,980,1286,1286.0
+TCTGCCCGTGCC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,320,403,403.0
+TCTGCTGCGGTA_1,WT mice (Midbrain),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,368,497,497.0
+TCTGCTGCGGTC_1,WT mice (Midbrain),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,478,684,684.0
+TCTGCTGCGGTG_1,WT mice (Midbrain),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,467,674,674.0
+TCTGCTGCGGTT_1,WT mice (Midbrain),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,400,551,551.0
+TCTGGAAAGTCT_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,343,448,448.0
+TCTGGCAGCGTA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,983,1929,1929.0
+TCTGGCGGTTCA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,220,246,246.0
+TCTGGCGGTTCC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,271,305,305.0
+TCTGGCGGTTCG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,225,247,247.0
+TCTGGCGGTTCT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,299,350,350.0
+TCTGGGGACAGC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,195,279,279.0
+TCTGTAATTGCG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,217,307,307.0
+TCTGTCTCGACA_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,301,402,402.0
+TCTGTCTCGACC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,334,474,474.0
+TCTGTCTCGACG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,315,443,443.0
+TCTGTCTCGACT_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,371,512,512.0
+TCTGTCTTCGAC_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,397,571,571.0
+TCTTAGGTCTAA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,624,940,940.0
+TCTTTGAAGAAA_2,WT mice (Striatum),S,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,211,280,280.0
+TCTTTGGTGGTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,358,442,442.0
+TGAAAGAGAATA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1079,1750,1750.0
+TGAAGAACGAAC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,574,841,841.0
+TGACATCTATTT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,207,247,247.0
+TGACTACATCAA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,554,827,827.0
+TGACTTAACCGC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,248,297,297.0
+TGAGACCTTGCC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,214,277,277.0
+TGAGACCTTGCG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,232,313,313.0
+TGAGAGAGCGCT_1,WT mice (Midbrain),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,866,1461,1461.0
+TGATTAGGCTAG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,970,1414,1414.0
+TGATTCCTGGGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,734,1325,1325.0
+TGCACACCGCTG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,452,650,650.0
+TGCACGATAAAG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,562,876,876.0
+TGCACGGAGTAG_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,920,1372,1372.0
+TGCACTTCTTCG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,310,469,469.0
+TGCCCCCTAAGC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,209,302,302.0
+TGCCCCCTGAAC_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,258,345,345.0
+TGCCCGGCAGTT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,261,347,347.0
+TGCCGGCAACTT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,225,307,307.0
+TGCCTGCCTTGC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,908,1297,1297.0
+TGCCTTATATTC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,325,414,414.0
+TGCGCCACACCT_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,206,290,290.0
+TGCGCCTTCCCC_1,WT mice (Midbrain),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,777,1326,1326.0
+TGCGTATCTCGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,283,345,345.0
+TGCGTATCTCGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,270,352,352.0
+TGCGTCGACTCT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,857,1122,1122.0
+TGCTAGTCGATG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,654,1330,1330.0
+TGCTATTATGTT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,340,495,495.0
+TGCTGGGACATG_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1018,1554,1554.0
+TGGACACAGCCA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,267,329,329.0
+TGGATTATACTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,714,1045,1045.0
+TGGCCTCGTGTG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,213,241,241.0
+TGGCCTGCTGTG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,248,269,269.0
+TGGCCTGGTCTG_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,271,302,302.0
+TGGCGTCTCTTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,807,1324,1324.0
+TGGCTGAGGAAG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,934,1677,1677.0
+TGGGACTCCTCA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,386,470,470.0
+TGGGACTCCTCC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,451,564,564.0
+TGGGACTCCTCG_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,454,541,541.0
+TGGGACTCCTCT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,391,465,465.0
+TGGGACTTAAGA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,848,1401,1401.0
+TGGGATCGTGAA_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,319,359,359.0
+TGGGATCGTGAC_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,341,393,393.0
+TGGGATCGTGAG_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,396,454,454.0
+TGGGATCGTGAT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,352,417,417.0
+TGGGCTATACGC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,607,832,832.0
+TGGGGGGGGGGG_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,1654,1716,1716.0
+TGGGGTTCAGGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,896,1595,1595.0
+TGGGTACTCCTC_2,WT mice (Striatum),G2M,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1029,1429,1429.0
+TGGTATCGCCGG_1,WT mice (Midbrain),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,1168,1656,1656.0
+TGGTGCCAGGCT_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,374,443,443.0
+TGGTGGACCAAC_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,393,627,627.0
+TGGTTCCAAGGA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,674,1812,1812.0
+TGTACAGGATGA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,477,655,655.0
+TGTAGAGGGCGA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,947,1335,1335.0
+TGTCACAGTGAA_1,WT mice (Midbrain),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,201,253,253.0
+TGTCACTCGCAT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,884,1286,1286.0
+TGTCGGACAGGT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,210,275,275.0
+TGTGATCTTATA_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,861,1337,1337.0
+TGTGCACATCTA_2,WT mice (Striatum),S,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,401,1239,1239.0
+TGTGCTGGCCCT_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,938,1538,1538.0
+TGTGGACGAGGA_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,595,784,784.0
+TGTGTCTTCCCA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,264,360,360.0
+TGTGTCTTCCCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,251,347,347.0
+TGTGTCTTCCCG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,276,374,374.0
+TGTGTCTTCCGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1042,1969,1969.0
+TGTTCAACCCCT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,200,268,268.0
+TGTTGTAGAATG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,852,1447,1447.0
+TTAAAAGTACGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,394,561,561.0
+TTAAAGGATTAG_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,817,1312,1312.0
+TTAAATGAGTAC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,713,985,985.0
+TTAACACGACGA_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,455,606,606.0
+TTAACACGACGC_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,460,615,615.0
+TTAACACGACGG_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,610,832,832.0
+TTAACACGACGT_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,370,493,493.0
+TTAACGTGGTAT_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,272,365,365.0
+TTAATCCGATAA_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1005,1342,1342.0
+TTAATCCGATAC_1,WT mice (Midbrain),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1022,1412,1412.0
+TTAATCCGATAG_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1113,1624,1624.0
+TTAATCCGATAT_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,1069,1487,1487.0
+TTAATCGAGGTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,374,416,416.0
+TTAATGCAGGTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,340,379,379.0
+TTAATGCATTCA_2,WT mice (Striatum),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,328,393,393.0
+TTAATGCATTCC_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,334,407,407.0
+TTAATGCATTCG_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,401,466,466.0
+TTAATGCATTCT_2,WT mice (Striatum),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,387,467,467.0
+TTAATGGACGTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,270,300,300.0
+TTAATGGAGCTC_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,418,482,482.0
+TTAATGGAGGAC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,321,355,355.0
+TTAATTGAGGTC_1,WT mice (Midbrain),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,279,303,303.0
+TTACGTTGCCAG_2,WT mice (Striatum),G1,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,671,982,982.0
+TTACTATTAGCA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,760,1210,1210.0
+TTAGAACCTTGG_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,1047,1868,1868.0
+TTAGATTTTATA_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,256,276,276.0
+TTAGATTTTATC_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,212,238,238.0
+TTAGATTTTATG_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,211,235,235.0
+TTAGATTTTATT_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,350,409,409.0
+TTAGGATGAGAA_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,602,797,797.0
+TTAGGATGAGAC_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,506,669,669.0
+TTAGGATGAGAG_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,633,856,856.0
+TTAGGATGAGAT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,475,629,629.0
+TTAGGTTGGTCG_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,780,1266,1266.0
+TTAGTAGAGGTT_2,WT mice (Striatum),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,423,627,627.0
+TTATATATCTTA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,204,248,248.0
+TTATATATCTTC_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,212,263,263.0
+TTATATATCTTG_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,212,270,270.0
+TTATATATCTTT_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,225,283,283.0
+TTATGCTTAATT_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,820,1135,1135.0
+TTATTCCTTGAA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,672,916,916.0
+TTATTCCTTGAC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,600,860,860.0
+TTATTCCTTGAG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,823,1278,1278.0
+TTATTCCTTGAT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,552,763,763.0
+TTCATTTGCGAT_1,WT mice (Midbrain),S,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,374,497,497.0
+TTCCACCCTATA_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,456,547,547.0
+TTCCACCCTATC_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,540,650,650.0
+TTCCACCCTATG_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,587,734,734.0
+TTCCACCCTATT_2,WT mice (Striatum),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,519,628,628.0
+TTCCCACTTTTC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,234,330,330.0
+TTCCGCTAACGC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,655,1149,1149.0
+TTCCGCTACCGC_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,197,288,288.0
+TTCCTTACTGCA_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,350,506,506.0
+TTCTGGCTCACA_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,195,249,249.0
+TTCTGGCTCACC_2,WT mice (Striatum),S,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,206,238,238.0
+TTCTGGCTCACG_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,231,276,276.0
+TTGAAGCCCGCC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,238,321,321.0
+TTGAATTGAGAA_2,WT mice (Striatum),G2M,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,725,1243,1243.0
+TTGATTTCATTT_1,WT mice (Midbrain),G1,Ependymal,Mus musculus,Oihane,Drop-seq,Brain,raw,ependymal cell,CL:0000065,889,1361,1361.0
+TTGCATTCTGAT_2,WT mice (Striatum),G2M,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,944,1575,1575.0
+TTGCCATCCGCA_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,228,306,306.0
+TTGCCATCCGCC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,387,589,589.0
+TTGCCATCCGCT_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,249,334,334.0
+TTGCCCTATGAG_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,698,1088,1088.0
+TTGCCCTCAGCC_1,WT mice (Midbrain),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,263,366,366.0
+TTGCCCTCAGCG_1,WT mice (Midbrain),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,223,307,307.0
+TTGCGTAGTCCA_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,605,841,841.0
+TTGCGTAGTCCC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,656,961,961.0
+TTGCGTAGTCCG_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,739,1097,1097.0
+TTGCGTAGTCCT_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,564,813,813.0
+TTGCGTTAAGCA_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,299,406,406.0
+TTGCGTTCATAT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,735,1117,1117.0
+TTGCGTTCGCGA_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1245,2452,2452.0
+TTGGCAGTTGTA_2,WT mice (Striatum),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,742,1165,1165.0
+TTGGTCCATGTC_2,WT mice (Striatum),G2M,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,1007,1809,1809.0
+TTGGTGCCGATG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,210,287,287.0
+TTGTTGAACGTC_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,220,322,322.0
+TTTAAAGACCGG_2,WT mice (Striatum),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,197,241,241.0
+TTTAAGGTTTCC_2,WT mice (Striatum),S,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,563,847,847.0
+TTTACCAGCGAG_2,WT mice (Striatum),S,Oligodendrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,oligodendrocyte,CL:0000128,307,429,429.0
+TTTCAAATACAA_1,WT mice (Midbrain),G1,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,531,673,673.0
+TTTCAAATACAC_1,WT mice (Midbrain),G2M,Endothelial,Mus musculus,Oihane,Drop-seq,Brain,raw,endothelial cell,CL:0000115,607,806,806.0
+TTTCAAATACAG_1,WT mice (Midbrain),G2M,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,658,860,860.0
+TTTCAAATACAT_1,WT mice (Midbrain),S,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,815,1120,1120.0
+TTTCCTGCTTCG_1,WT mice (Midbrain),G1,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,1003,1723,1723.0
+TTTGAAGTAACA_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,568,850,850.0
+TTTGCCCGCATT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,238,339,339.0
+TTTGCCTCGGCT_2,WT mice (Striatum),G1,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,774,1029,1029.0
+TTTGGGTTGCAC_2,WT mice (Striatum),G1,Hybrid,Mus musculus,Oihane,Drop-seq,Brain,raw,nan,not found,677,934,934.0
+TTTTCACTCGTG_2,WT mice (Striatum),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,349,686,686.0
+TTTTGCTCCGTT_2,WT mice (Striatum),G1,Microglia,Mus musculus,Oihane,Drop-seq,Brain,raw,microglial cell,CL:0000129,904,1462,1462.0
+TTTTGTTGCTCG_1,WT mice (Midbrain),S,Astrocytes,Mus musculus,Oihane,Drop-seq,Brain,raw,astrocyte,CL:0000127,626,866,866.0
+TTTTTTAAACTA_1,WT mice (Midbrain),G2M,Neurons,Mus musculus,Oihane,Drop-seq,Brain,raw,neuron,CL:0000540,939,1345,1345.0
