@@ -73,8 +73,7 @@ The script performs the following steps:
    - tSNE (with perplexities 10 and 30)
    - PHATE
    - KEF
-5. Performs ensemble visualization
-6. Executes the ADM method
+5. Executes the meta-spec and ADM visualization
 7. Processes and visualizes meta-method results
 8. Visualizes individual method results
 9. Outputs a summary of results, including ARI, NMI, and Silhouette coefficient for each method
