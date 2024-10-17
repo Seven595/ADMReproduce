@@ -45,7 +45,7 @@ Before running this script, ensure you have the following:
    - Gutierrez
    - Oihane
    - Quake
-   - pbmc
+   - Brain5k
    - mir
    - Spleen
    - metabolism

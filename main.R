@@ -8,7 +8,7 @@ color_list <- c("#FB6A4A", "#54278F", "#006635", "#3182BD", "#DE2D26", "#72A34F"
                 "#E6873E", "#545454", "#aa3474", "#ee8c7d", "#2e5fa1", "#FDD0A3", "#C22F2F", "#036f73")
 
 # Set dataset name
-dataset <- "Quake"  # Options: Gutierrez, Oihane, Quake, pbmc, mir, kidney, Spleen, metabolism, gene
+dataset <- "Quake"  # Options: Gutierrez, Oihane, Quake, Brain5k, mir, Spleen, metabolism, gene
 
 # Load data
 dataload <- dataloader(dataset)
@@ -48,6 +48,9 @@ print("ADM completed!")
 # Process and visualize meta-method results
 result <- process_and_visualize_meta_methods(adm.out, ensemble.out, info, k, color_list)
 
+# Calculate the Category consistency index (CCI)
+cci = cal_cci(ensemble.out, adm.out, info)
+print(cci)
 # Visualize individual method results
 ind_result <- visualize_individual_methods(e, names_list, info, color_list, k)
 
