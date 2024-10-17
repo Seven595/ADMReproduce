@@ -76,11 +76,11 @@ The script performs the following steps:
 5. Executes the meta-spec and ADM visualization
 7. Processes and visualizes meta-method results
 8. Visualizes individual method results
-9. Outputs a summary of results, including ARI, NMI, and Silhouette coefficient for each method
+9. Outputs a summary of results, including ARI, NMI, CCI, and Silhouette coefficient for each method
 
 ## Output
 
-The script generates visualizations for each method and calculates evaluation metrics. Results can be accessed through the `ind_result` list, where each element contains:
+The script generates visualizations for each method and calculates evaluation metrics. Candidate results can be accessed through the `ind_result` list, where each element contains:
 
 - `plot`: A ggplot object of the visualization
 - `ari`: Adjusted Rand Index
