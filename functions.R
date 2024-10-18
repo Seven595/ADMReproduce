@@ -89,19 +89,23 @@ dataloader <- function(dataset, base_dir = ".") {
     path = paste0("./dataset/")
   result <- switch(dataset,
     "Oihane" = {
-      load("Oihane.Rdata")
+      dat <- read.csv("./Oihane_data.csv", header = TRUE, row.names = 1)
+      lab <- read.csv("./Oihane_metadata.csv", header = TRUE, row.names = 1)
+      lab <- lab$cell_type1
       list(
-        dat = Oihane,
-        cell.type = as.factor(Oihane.info.cellType),
-        info = as.factor(Oihane.info.cellType)
+         dat = dat,
+         cell.type = lab,
+         info = lab
       )
     },
     "Gutierrez" = {
-      load("Gutierrez.Rdata")
+      dat <- read.csv("./Gutierrez_data.csv", header = TRUE, row.names = 1)
+      lab <- read.csv("./Gutierrez_metadata.csv", header = TRUE, row.names = 1)
+      lab <- lab$cell_type1
       list(
-        dat = Gutierrez$data,
-        cell.type = as.factor(Gutierrez$data.cellType),
-        info = as.factor(Gutierrez$data.cellType)
+         dat = dat,
+         cell.type = lab,
+         info = lab
       )
     },
      "Spleen" = {
@@ -115,11 +119,13 @@ dataloader <- function(dataset, base_dir = ".") {
       )
     },            
     "Quake" = {
-      load("Quake_Smartseq2_Lung.Rdata")
+      dat <- read.csv("./Quake_data.csv", header = TRUE, row.names = 1)
+      lab <- read.csv("./Quake_metadata.csv", header = TRUE, row.names = 1)
+      lab <- lab$cell_type1
       list(
-        dat = Quake_Smartseq2_Lung$data,
-        cell.type = as.factor(Quake_Smartseq2_Lung$data.cellType),
-        info = as.factor(Quake_Smartseq2_Lung$data.cellType)
+         dat = dat,
+         cell.type = lab,
+         info = lab
       )
     },
     "Brain5k" = {

@@ -18,9 +18,6 @@ k <- length(unique(info))  # Number of classes
 label_mapping <- get_mapping(dataset)  # Get label mapping
 print("Data loaded successfully!")
 
-# Set data path
-path <- file.path("../dataset", dataset)
-
 # Set random seed for reproducibility
 set.seed(2024)
 
@@ -37,7 +34,7 @@ print("Individual methods completed!")
 e <- candidate.out[[1]]  # Visualization results
 names_list <- candidate.out[[2]]  # List of method names
 
-# Execute ensemble visualization
+# Execute meta-spec visualization
 ensemble.out <- ensemble.viz(e, names(e))
 print("Meta-spec completed!")
 
