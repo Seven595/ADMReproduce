@@ -389,6 +389,7 @@ cal_ari_nmi <- function(lowDim_data, k, method_name, seed, info = NULL){
     }
     info <- get("info", envir = .GlobalEnv)
   }
+  set.seed(seed)
   cluster_viz <- stats::kmeans(lowDim_data, centers = k)
   if (!requireNamespace("mclust", quietly = TRUE)) {
     stop("Package 'mclust' is needed for this function to work. Please install it.", call. = FALSE)
@@ -451,11 +452,10 @@ process_and_visualize_meta_methods <- function(mev.out, ensemble.out = NULL, inf
   ASW_list <- list()
   plots <- list()
   print(paste("Running R version:", R.version$major, ".", R.version$minor, sep = ""))
-  set.seed(seed)
+  # set.seed(seed)
   # Meta-spec method (only if ensemble.out is not NULL)
   if (!is.null(ensemble.out)) {
     method <- "meta-spec"
-    # set.seed(seed)
     umap_viz0 <- uwot::umap(ensemble.out$ensemble.dist.mat)
     ARI_list[[1]] <- cal_ari_nmi(umap_viz0, k, method, seed, info)
     ASW_list[[1]] <- cluster::silhouette(as.numeric(factor(info)), dist = stats::dist(umap_viz0))[, 3]
