@@ -86,7 +86,8 @@ get_mapping <- function(dataset) {
 
 
 dataloader <- function(dataset, base_dir = ".") {
-    path = paste0("./dataset/")
+    path = paste0("../dataset/")
+    setwd（path）
   result <- switch(dataset,
     "Oihane" = {
       dat <- read.csv("./Oihane_data.csv", header = TRUE, row.names = 1)
