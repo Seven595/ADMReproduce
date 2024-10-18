@@ -379,3 +379,110 @@ ensemble.viz <- function(data.list, name.method=NA, original.data=NA){
   }  
 }
 
+
+
+cal_ari_nmi <- function(lowDim_data, k, method_name, seed, info = NULL){
+  if (is.null(info)) {
+    if (!exists("info")) {
+      stop("'info' not provided and not found in global environment")
+    }
+    info <- get("info", envir = .GlobalEnv)
+  }
+  cluster_viz <- stats::kmeans(lowDim_data, centers = k)
+  if (!requireNamespace("mclust", quietly = TRUE)) {
+    stop("Package 'mclust' is needed for this function to work. Please install it.", call. = FALSE)
+  }
+  if (!requireNamespace("aricode", quietly = TRUE)) {
+    stop("Package 'aricode' is needed for this function to work. Please install it.", call. = FALSE)
+  }
+  ARI <- mclust::adjustedRandIndex(info, cluster_viz$cluster)
+  NMI <- aricode::NMI(info, cluster_viz$cluster)
+  rec_ari_nmi <- data.frame(ARI = ARI, NMI = NMI)
+  cat("******", method_name, "******\n")
+  print(rec_ari_nmi)
+  return(rec_ari_nmi)
+}
+visualization_func <- function(data, method_name, color_list = NULL, info = NULL) {
+  # Convert data to data frame and set column names
+  data <- as.data.frame(data)
+  colnames(data)[1:2] <- c("x", "y")
+  data$info <- info
+  
+  # Create the base plot
+  plot <- ggplot(data, aes(x = .data$x, y = .data$y)) +
+    labs(title = method_name, x = "", y = "") +
+    theme_minimal() +
+    theme(
+      plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+      axis.text = element_blank(),
+      axis.ticks = element_blank(),
+      panel.grid = element_blank(),
+      legend.position = "none"  # Remove the legend
+    )
+
+  # Add points to the plot
+  if (!is.null(info) && !is.null(color_list)) {
+    data$info <- info
+    plot <- plot +
+      geom_point(aes(color = .data$info), alpha = 0.75) +
+      scale_color_manual(values = color_list)
+  } else {
+    plot <- plot + geom_point(alpha = 0.75)
+  }
+
+  return(plot)
+}  
+
+process_and_visualize_meta_methods <- function(mev.out, ensemble.out = NULL, info, k, color_list, seed = 2024) {
+  # Input validation
+  if (!is.null(ensemble.out) && !all(c("ensemble.dist.mat") %in% names(ensemble.out))) {
+    stop("When provided, ensemble.out must contain 'ensemble.dist.mat'")
+  }
+  if (!all(c("diffu.dist") %in% names(mev.out))) {
+    stop("mev.out must contain 'diffu.dist'")
+  }
+  if (!is.null(ensemble.out) && length(info) != nrow(ensemble.out$ensemble.dist.mat)) {
+    stop("Length of info must match the number of rows in ensemble.dist.mat")
+  }
+
+
+  ARI_list <- list()
+  ASW_list <- list()
+  plots <- list()
+  print(paste("Running R version:", R.version$major, ".", R.version$minor, sep = ""))
+  set.seed(seed)
+  # Meta-spec method (only if ensemble.out is not NULL)
+  if (!is.null(ensemble.out)) {
+    method <- "meta-spec"
+    # set.seed(seed)
+    umap_viz0 <- uwot::umap(ensemble.out$ensemble.dist.mat)
+    ARI_list[[1]] <- cal_ari_nmi(umap_viz0, k, method, seed, info)
+    ASW_list[[1]] <- cluster::silhouette(as.numeric(factor(info)), dist = stats::dist(umap_viz0))[, 3]
+    umap_viz <- as.data.frame(umap_viz0)
+    plots[[1]] = visualization_func(umap_viz, method, color_list, info)
+  }
+
+  # ADM method
+  method <- "ADM"
+  set.seed(seed)
+  umap_adm0 <- uwot::umap(mev.out$diffu.dist)
+  ARI_list[[length(ARI_list) + 1]] <- cal_ari_nmi(umap_adm0, k, method, seed, info)
+  ASW_list[[length(ASW_list) + 1]] <- cluster::silhouette(as.numeric(factor(info)), dist = stats::dist(umap_adm0))[, 3]
+  umap_adm <- as.data.frame(umap_adm0)
+  plots[[length(ASW_list) + 1]] = visualization_func(umap_adm, method, color_list, info)
+
+  result <- list(
+    ARI_list = ARI_list,
+    ASW_list = ASW_list,
+    umap_adm = umap_adm0,
+    plot = plots
+  )
+
+  if (!is.null(ensemble.out)) {
+    result$umap_viz <- umap_viz0
+  }
+
+  return(result)
+}
+
+
