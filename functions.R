@@ -418,7 +418,7 @@ visualization_func <- function(data, method_name, color_list = NULL, info = NULL
       axis.text = element_blank(),
       axis.ticks = element_blank(),
       panel.grid = element_blank(),
-      legend.position = "none"  # Remove the legend
+      # legend.position = "none"  # Remove the legend
     )
 
   # Add points to the plot
