@@ -89,7 +89,7 @@ dataloader <- function(dataset, base_dir = ".") {
     path = paste0("../dataset/")
     setwd(path)
   result <- switch(dataset,
-    "Oihane" = {
+    "Oihane1" = {
       dat <- read.csv("./Oihane_data.csv", header = TRUE, row.names = 1)
       lab <- read.csv("./Oihane_metadata.csv", header = TRUE, row.names = 1)
       lab <- lab$cell_type1
@@ -99,7 +99,7 @@ dataloader <- function(dataset, base_dir = ".") {
          info = lab
       )
     },
-    "Gutierrez" = {
+    "Gutierrez1" = {
       dat <- read.csv("./Gutierrez_data.csv", header = TRUE, row.names = 1)
       lab <- read.csv("./Gutierrez_metadata.csv", header = TRUE, row.names = 1)
       lab <- lab$cell_type1
@@ -107,6 +107,22 @@ dataloader <- function(dataset, base_dir = ".") {
          dat = dat,
          cell.type = lab,
          info = lab
+      )
+    },
+    "Oihane" = {
+      load("Oihane.Rdata")
+      list(
+        dat = Oihane,
+        cell.type = as.factor(Oihane.info.cellType),
+        info = as.factor(Oihane.info.cellType)
+      )
+    },
+    "Gutierrez" = {
+      load("Gutierrez.Rdata")
+      list(
+        dat = Gutierrez$data,
+        cell.type = as.factor(Gutierrez$data.cellType),
+        info = as.factor(Gutierrez$data.cellType)
       )
     },
      "Spleen" = {
@@ -119,7 +135,7 @@ dataloader <- function(dataset, base_dir = ".") {
          info = lab
       )
     },            
-    "Quake" = {
+    "Quake1" = {
       dat <- read.csv("./Quake_data.csv", header = TRUE, row.names = 1)
       lab <- read.csv("./Quake_metadata.csv", header = TRUE, row.names = 1)
       lab <- lab$cell_type1
@@ -127,6 +143,14 @@ dataloader <- function(dataset, base_dir = ".") {
          dat = dat,
          cell.type = lab,
          info = lab
+      )
+    },
+      "Quake" = {
+      load("Quake_Smartseq2_Lung.Rdata")
+      list(
+        dat = Quake_Smartseq2_Lung$data,
+        cell.type = as.factor(Quake_Smartseq2_Lung$data.cellType),
+        info = as.factor(Quake_Smartseq2_Lung$data.cellType)
       )
     },
     "Brain5k" = {
